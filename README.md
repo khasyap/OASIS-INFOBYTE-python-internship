@@ -66,3 +66,13 @@ Seamless API Integration: Connects to a weather API, ensuring access to reliable
 Concise Information Display: Presents essential weather details like temperature, humidity, and weather conditions in a user-friendly format.
 
 User-Friendly Input Handling: Guides users through the input process, ensuring clarity and efficient interaction.
+### TASK 5 : Chat Application
+
+#### Description:
+
+Create a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange..
+
+#### Key Features:
+
+Networking: Learn socket programming for real-time communication between clients and a server.User Interaction: Create a user-friendly interaction design that allows users to communicate with the assistant via voice commands.
+
